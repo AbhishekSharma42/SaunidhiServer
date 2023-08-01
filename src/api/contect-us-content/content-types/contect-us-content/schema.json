@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contect_us_contents",
+  "info": {
+    "singularName": "contect-us-content",
+    "pluralName": "contect-us-contents",
+    "displayName": "Contect Us Content"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Titile": {
+      "type": "string"
+    },
+    "H1": {
+      "type": "string"
+    },
+    "Paragraph": {
+      "type": "text"
+    },
+    "h2": {
+      "type": "string"
+    },
+    "Address": {
+      "type": "json"
+    },
+    "h3": {
+      "type": "string"
+    },
+    "Address2": {
+      "type": "json"
+    },
+    "h4": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "json"
+    },
+    "Email": {
+      "type": "email"
+    }
+  }
+}
