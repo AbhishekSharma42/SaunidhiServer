@@ -4,7 +4,8 @@
   "info": {
     "singularName": "contect-us-content",
     "pluralName": "contect-us-contents",
-    "displayName": "Contect Us Content"
+    "displayName": "Contect Us Content",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -14,32 +15,32 @@
     "Titile": {
       "type": "string"
     },
-    "H1": {
+    "Heading_1": {
       "type": "string"
     },
     "Paragraph": {
       "type": "text"
     },
-    "h2": {
+    "Heading_2": {
       "type": "string"
     },
-    "Address": {
-      "type": "json"
-    },
-    "h3": {
+    "Heading_3": {
       "type": "string"
     },
-    "Address2": {
-      "type": "json"
-    },
-    "h4": {
+    "Heading_4": {
       "type": "string"
-    },
-    "Content": {
-      "type": "json"
     },
     "Email": {
       "type": "email"
+    },
+    "Address": {
+      "type": "text"
+    },
+    "Address_2": {
+      "type": "text"
+    },
+    "Content": {
+      "type": "text"
     }
   }
 }

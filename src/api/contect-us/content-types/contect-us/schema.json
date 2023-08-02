@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contect_uses",
+  "info": {
+    "singularName": "contect-us",
+    "pluralName": "contect-uses",
+    "displayName": "CONTECT US"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "First_Name": {
+      "type": "string"
+    },
+    "Last_Name": {
+      "type": "string"
+    },
+    "Business_Email": {
+      "type": "email"
+    },
+    "Phone_Number": {
+      "type": "integer"
+    },
+    "Company_Name": {
+      "type": "string"
+    },
+    "Industry": {
+      "type": "string"
+    },
+    "Discuss": {
+      "type": "text"
+    }
+  }
+}

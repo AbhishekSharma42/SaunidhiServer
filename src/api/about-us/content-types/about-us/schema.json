@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "about_uses",
+  "info": {
+    "singularName": "about-us",
+    "pluralName": "about-uses",
+    "displayName": "About Us"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Heading_1": {
+      "type": "string"
+    },
+    "Paragraph_1": {
+      "type": "text"
+    },
+    "Heading_2": {
+      "type": "string"
+    },
+    "Paragraph_2": {
+      "type": "text"
+    },
+    "work_place": {
+      "type": "string"
+    },
+    "work_place_heading": {
+      "type": "string"
+    },
+    "work_place_Paragraph": {
+      "type": "text"
+    },
+    "CAREERS": {
+      "type": "string"
+    },
+    "Careers_heading": {
+      "type": "string"
+    },
+    "Careers_Paragraph": {
+      "type": "string"
+    }
+  }
+}
