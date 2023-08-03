@@ -14,11 +14,14 @@
     "Heading_1": {
       "type": "string"
     },
-    "Paragraph_1": {
+    "Heading_2": {
       "type": "text"
     },
-    "Heading_2": {
+    "Heading_3": {
       "type": "string"
+    },
+    "Paragraph_1": {
+      "type": "text"
     },
     "Paragraph_2": {
       "type": "text"
@@ -32,14 +35,14 @@
     "work_place_Paragraph": {
       "type": "text"
     },
-    "CAREERS": {
+    "Careers": {
       "type": "string"
     },
     "Careers_heading": {
       "type": "string"
     },
     "Careers_Paragraph": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
